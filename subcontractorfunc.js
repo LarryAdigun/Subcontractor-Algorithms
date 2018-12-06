@@ -18,7 +18,6 @@ var client = {
 
 };
 
-
 //Below we have the three companies the client is considering and what their set amounts are. Patch work, base price and demo is per
 
 //square feet
